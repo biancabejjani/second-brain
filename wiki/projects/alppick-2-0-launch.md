@@ -3,13 +3,13 @@ title: AlpPick 2.0 launch
 type: project
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md]
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-06-18-email-thread-bergland.md]
 tags: [project, product]
 ---
 
 # AlpPick 2.0 launch
 
-**Status (as of 12 March 2026):** Decided – market launch in September 2026. (Source: [[2026-03-12-executive-board-minutes]])
+**Status:** Decided on 12 March 2026 – market launch in September 2026; on 16 June 2026 "Q4, not yet confirmed" (see contradiction). (Source: [[2026-03-12-executive-board-minutes]])
 
 ## Description
 
@@ -42,6 +42,14 @@ New generation of [[alppick]]: payload 25 kg instead of 15 kg, navigation withou
 
 - Loss of focus: if AlpPick 2.0 arrives in the fall, it pulls attention away from service. (Source: [[2026-05-05-strategy-memo-service-first]])
 
+## Update 16 June 2026
+
+- Jonas Weber to Bergland: launch "we currently assume Q4. This is not yet confirmed." (Source: [[2026-06-18-email-thread-bergland]])
+- [[bergland-logistik-ag]] planned its expansion for September; Q4 "is a problem" ([[thomas-rueegg]]). (Source: [[2026-06-18-email-thread-bergland]])
+
+> [!warning] Contradiction – launch date
+> Decision of 12 March 2026: market launch in **September 2026** (Source: [[2026-03-12-executive-board-minutes]]) vs. Jonas Weber, 16 June 2026: "we currently assume **Q4**. This is not yet confirmed" (Source: [[2026-06-18-email-thread-bergland]]). Not resolved.
+
 ## Related
 
-- [[2026-03-12-executive-board-minutes]] · [[2026-05-05-strategy-memo-service-first]]
+- [[2026-03-12-executive-board-minutes]] · [[2026-05-05-strategy-memo-service-first]] · [[2026-06-18-email-thread-bergland]]

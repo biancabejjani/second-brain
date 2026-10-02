@@ -3,7 +3,7 @@ title: AlpCare Plus
 type: project
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md]
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-06-18-email-thread-bergland.md]
 tags: [project, service]
 ---
 
@@ -35,6 +35,13 @@ Proposed variant of [[alpcare]] with a guaranteed response time of under 4 hours
 - Responsible: [[jonas-weber]]. Initiative 1 of the [[service-first-strategy]]. (Source: [[2026-05-05-strategy-memo-service-first]])
 - Approval of the pricing model requested for the meeting of 7 May 2026 – decision not yet in the wiki. (Source: [[2026-05-05-strategy-memo-service-first]])
 
+## Update 16 June 2026
+
+- [[sandra-koller]]: "the pricing question for AlpCare/AlpCare Plus has not been decided yet". (Source: [[2026-06-18-email-thread-bergland]])
+
+> [!warning] Contradiction – AlpCare price
+> CHF 1,200 per robot and month (Source: [[2026-03-12-executive-board-minutes]]) and (Source: [[2026-05-05-strategy-memo-service-first]]) vs. CHF 1,450 per robot and month (Jonas Weber to Bergland, 16 June 2026) (Source: [[2026-06-18-email-thread-bergland]]). Sandra Koller writes that "the pricing question for AlpCare/AlpCare Plus has not been decided yet" (Source: [[2026-06-18-email-thread-bergland]]). Not resolved.
+
 ## Related
 
-- [[2026-03-12-executive-board-minutes]] · [[2026-05-05-strategy-memo-service-first]]
+- [[2026-03-12-executive-board-minutes]] · [[2026-05-05-strategy-memo-service-first]] · [[2026-06-18-email-thread-bergland]]

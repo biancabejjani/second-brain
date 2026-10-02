@@ -3,7 +3,7 @@ title: Bergland Logistik AG
 type: entity
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-06-18-email-thread-bergland.md]
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-06-18-email-thread-bergland.md, raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md]
 tags: [organization, customer]
 ---
 
@@ -29,6 +29,8 @@ Customer of [[alpstein-robotics-ag]], based in Buchs. (Source: [[2026-03-12-exec
 > [[jonas-weber]] (18 June 2026, internal to Sandra Koller): "I did not commit to anything concrete."
 > Whether a credit note was promised is not clear from the sources. Not resolved. (Source: [[2026-06-18-email-thread-bergland]])
 
+- The Bergland case is cited as the lesson behind the rule that the service agent may **never** promise a credit note or compensation ([[agentic-ai-in-service]], 21 August 2026). (Source: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
+
 ## Related
 
-- [[2026-03-12-executive-board-minutes]] · [[2026-06-18-email-thread-bergland]]
+- [[2026-03-12-executive-board-minutes]] · [[2026-06-18-email-thread-bergland]] · [[2026-08-21-kickoff-notes-agentic-ai-pilot]]

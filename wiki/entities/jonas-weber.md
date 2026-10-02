@@ -3,7 +3,7 @@ title: Jonas Weber
 type: entity
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-06-18-email-thread-bergland.md]
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-06-18-email-thread-bergland.md, raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md]
 tags: [person, executive-board]
 ---
 
@@ -20,6 +20,12 @@ tags: [person, executive-board]
 - Responsible for [[alpcare-plus]] and, with [[priya-raman]], for [[agentic-ai-in-service]]. (Source: [[2026-05-05-strategy-memo-service-first]])
 
 - 16 June 2026: answers [[thomas-rueegg]]: cause is a navigation software error; quotes AlpCare at CHF 1,450; launch AlpPick 2.0 assumed for Q4. (Source: [[2026-06-18-email-thread-bergland]])
+
+> [!warning] Contradiction – AlpCare price
+> CHF 1,450 (Weber, 16 June 2026) (Source: [[2026-06-18-email-thread-bergland]]) vs. CHF 1,200 (Source: [[2026-03-12-executive-board-minutes]]) (Source: [[2026-05-05-strategy-memo-service-first]]). Not resolved. See [[alpcare]].
+
+> [!warning] Contradiction – launch date AlpPick 2.0
+> Q4, not confirmed (Weber, 16 June 2026) (Source: [[2026-06-18-email-thread-bergland]]) vs. decision September 2026 (Source: [[2026-03-12-executive-board-minutes]]). Not resolved. See [[alppick-2-0-launch]].
 - 18 June 2026, internal: "I did not commit to anything concrete." Asks to clarify with [[marco-steiner]]. (Source: [[2026-06-18-email-thread-bergland]])
 
 > [!warning] Contradiction – credit note
@@ -28,6 +34,8 @@ tags: [person, executive-board]
 > [[jonas-weber]] (18 June 2026, internal to Sandra Koller): "I did not commit to anything concrete."
 > Whether a credit note was promised is not clear from the sources. Not resolved. (Source: [[2026-06-18-email-thread-bergland]])
 
+- Project lead of [[agentic-ai-in-service]] (kickoff 21 August 2026); finalizes the rule set with [[nadia-frei]] by 5 September and reports to the Executive Board by 30 September 2026. (Source: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
+
 ## Related
 
-- [[2026-03-12-executive-board-minutes]] · [[2026-05-05-strategy-memo-service-first]] · [[2026-06-18-email-thread-bergland]]
+- [[2026-03-12-executive-board-minutes]] · [[2026-05-05-strategy-memo-service-first]] · [[2026-06-18-email-thread-bergland]] · [[2026-08-21-kickoff-notes-agentic-ai-pilot]]

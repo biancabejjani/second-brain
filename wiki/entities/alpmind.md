@@ -3,7 +3,7 @@ title: AlpMind
 type: entity
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md]
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md]
 tags: [product, software]
 ---
 
@@ -18,6 +18,8 @@ Fleet software of [[alpstein-robotics-ag]]; provides [[remote-monitoring]] of th
 - Should also control robots from other manufacturers → [[alpmind-platform]]. (Source: [[2026-05-05-strategy-memo-service-first]])
 - Named, with AlpCare, as the company's edge over hardware competitors. (Source: [[2026-05-05-strategy-memo-service-first]])
 
+- Source of service tickets for the triage agent in [[agentic-ai-in-service]]. (Source: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
+
 ## Related
 
-- [[alpcare]] · [[alppick]] · [[2026-03-12-executive-board-minutes]] · [[2026-05-05-strategy-memo-service-first]]
+- [[alpcare]] · [[alppick]] · [[2026-03-12-executive-board-minutes]] · [[2026-05-05-strategy-memo-service-first]] · [[2026-08-21-kickoff-notes-agentic-ai-pilot]]

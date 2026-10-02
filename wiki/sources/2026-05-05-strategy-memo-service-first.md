@@ -56,3 +56,6 @@ tags: [strategy, service]
 
 > [!warning] Contradiction
 > Headcount: 140 employees in this memo (5 May 2026) vs. 120 employees in [[2026-03-12-executive-board-minutes]] (12 March 2026). The sources give no explanation.
+
+> [!note] Update after ingest of [[2026-07-30-q2-report-excerpt]]
+> The Q2 report shows headcount as a time series (104 → 128 → 140). 120 vs. 140 is therefore treated as an outdated figure; see [[alpstein-robotics-ag]].

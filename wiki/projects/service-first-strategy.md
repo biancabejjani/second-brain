@@ -3,7 +3,7 @@ title: Service first strategy 2026–2028
 type: project
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-05-05-strategy-memo-service-first.md]
+sources: [raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-07-30-q2-report-excerpt.md]
 tags: [project, strategy]
 ---
 
@@ -35,6 +35,10 @@ Loss of focus (AlpPick 2.0), price pressure, liability for AI, personnel. (Sourc
 
 - Approval of the 50% target by the Executive Board: not yet in the wiki.
 
+## Progress
+
+- Service share of revenue: 26% (Q2 2025) → 28% (Q1 2026) → **31% (Q2 2026)**; plan Q2 2026: 30%. Target 2028: 50%. (Source: [[2026-07-30-q2-report-excerpt]])
+
 ## Related
 
-- [[2026-05-05-strategy-memo-service-first]] · [[alpcare]] · [[alpmind]]
+- [[2026-05-05-strategy-memo-service-first]] · [[alpcare]] · [[alpmind]] · [[2026-07-30-q2-report-excerpt]]

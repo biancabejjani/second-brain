@@ -3,7 +3,7 @@ title: Bergland Logistik AG
 type: entity
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-06-18-email-thread-bergland.md, raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md]
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-06-18-email-thread-bergland.md, raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md, raw/alpstein/2026-07-30-q2-report-excerpt.md]
 tags: [organization, customer]
 ---
 
@@ -31,6 +31,13 @@ Customer of [[alpstein-robotics-ag]], based in Buchs. (Source: [[2026-03-12-exec
 
 - The Bergland case is cited as the lesson behind the rule that the service agent may **never** promise a credit note or compensation ([[agentic-ai-in-service]], 21 August 2026). (Source: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
 
+## Update 30 July 2026
+
+- Q2 2026: 18 new AlpPick delivered (expansion of Halls 3 and 4). (Source: [[2026-07-30-q2-report-excerpt]])
+- Special costs from three downtime incidents (May/June): **CHF 62,000** (call-outs, spare parts). (Source: [[2026-07-30-q2-report-excerpt]])
+- Credit note: **not booked** so far; **the decision lies with the Executive Board** (as of 30 July 2026). This does not settle whether one was promised (see contradiction above). (Source: [[2026-07-30-q2-report-excerpt]])
+- Navigation error fixed since the patch of 24 June 2026. (Source: [[2026-07-30-q2-report-excerpt]])
+
 ## Related
 
-- [[2026-03-12-executive-board-minutes]] · [[2026-06-18-email-thread-bergland]] · [[2026-08-21-kickoff-notes-agentic-ai-pilot]]
+- [[2026-03-12-executive-board-minutes]] · [[2026-06-18-email-thread-bergland]] · [[2026-08-21-kickoff-notes-agentic-ai-pilot]] · [[2026-07-30-q2-report-excerpt]]

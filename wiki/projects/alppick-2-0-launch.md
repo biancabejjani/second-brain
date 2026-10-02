@@ -3,7 +3,7 @@ title: AlpPick 2.0 launch
 type: project
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-03-12-executive-board-minutes.md]
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md]
 tags: [project, product]
 ---
 
@@ -38,6 +38,10 @@ New generation of [[alppick]]: payload 25 kg instead of 15 kg, navigation withou
 - Battery life in the cold store: target 8 hours, currently 6.5 hours.
 - CE certification in progress.
 
+## Risks
+
+- Loss of focus: if AlpPick 2.0 arrives in the fall, it pulls attention away from service. (Source: [[2026-05-05-strategy-memo-service-first]])
+
 ## Related
 
-- [[2026-03-12-executive-board-minutes]]
+- [[2026-03-12-executive-board-minutes]] · [[2026-05-05-strategy-memo-service-first]]

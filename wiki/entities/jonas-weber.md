@@ -3,7 +3,7 @@ title: Jonas Weber
 type: entity
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-03-12-executive-board-minutes.md]
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md]
 tags: [person, executive-board]
 ---
 
@@ -17,6 +17,8 @@ tags: [person, executive-board]
 - Proposal [[alpcare-plus]] to be presented in May with the strategy memo. (Source: [[2026-03-12-executive-board-minutes]])
 - With [[marco-steiner]] responsible for P-02: pricing model for AlpCare Plus, due 7 May 2026. (Source: [[2026-03-12-executive-board-minutes]])
 
+- Responsible for [[alpcare-plus]] and, with [[priya-raman]], for [[agentic-ai-in-service]]. (Source: [[2026-05-05-strategy-memo-service-first]])
+
 ## Related
 
-- [[2026-03-12-executive-board-minutes]]
+- [[2026-03-12-executive-board-minutes]] · [[2026-05-05-strategy-memo-service-first]]

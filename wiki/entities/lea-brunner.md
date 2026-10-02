@@ -3,7 +3,7 @@ title: Dr. Lea Brunner
 type: entity
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-03-12-executive-board-minutes.md]
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md]
 tags: [person, executive-board]
 ---
 
@@ -17,6 +17,8 @@ tags: [person, executive-board]
 - Reported on personnel: recruitment for software development is under way ([[recruitment-software-development]]). (Source: [[2026-03-12-executive-board-minutes]])
 - Responsible for P-04: concept for [[digital-onboarding]], due 30 June 2026. (Source: [[2026-03-12-executive-board-minutes]])
 
+- Author of the strategy memo "Service first" ([[service-first-strategy]]), 5 May 2026. (Source: [[2026-05-05-strategy-memo-service-first]])
+
 ## Related
 
-- [[2026-03-12-executive-board-minutes]]
+- [[2026-03-12-executive-board-minutes]] · [[2026-05-05-strategy-memo-service-first]]

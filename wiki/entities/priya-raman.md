@@ -3,7 +3,7 @@ title: Priya Raman
 type: entity
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md]
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md]
 tags: [person, executive-board]
 ---
 
@@ -18,6 +18,8 @@ tags: [person, executive-board]
 
 - Responsible for [[alpmind-platform]]; co-responsible for [[agentic-ai-in-service]]. (Source: [[2026-05-05-strategy-memo-service-first]])
 
+- Technology lead of [[agentic-ai-in-service]]: one agent, knowledge base as a wiki, full logging; data protection clarification by 15 September 2026. (Source: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
+
 ## Related
 
-- [[2026-03-12-executive-board-minutes]] · [[2026-05-05-strategy-memo-service-first]]
+- [[2026-03-12-executive-board-minutes]] · [[2026-05-05-strategy-memo-service-first]] · [[2026-08-21-kickoff-notes-agentic-ai-pilot]]

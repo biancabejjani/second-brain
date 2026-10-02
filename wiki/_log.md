@@ -11,3 +11,7 @@
 - 2026-10-02 11:25 | ingest | raw/alpstein/2026-06-18-email-thread-bergland.md | new: 2026-06-18-email-thread-bergland, thomas-rueegg; changed: bergland-logistik-ag, jonas-weber, sandra-koller, marco-steiner, alpcare, alpcare-plus, alppick, alppick-2-0-launch, remote-monitoring, _index | contradictions flagged: AlpCare price, launch date, credit note
 - 2026-10-02 11:35 | lint | 11 findings (5 high, 2 medium, 4 low incl. no orphans) | _lint/2026-10-02
 - 2026-10-02 11:36 | other | Correction to previous log entry: lint severities are 4 high, 2 medium, 4 low, plus 1 info (no orphans) | _lint/2026-10-02
+- 2026-10-02 11:50 | other | Added ninth check to reviewer: every project page has a section 'Open points' | .claude/agents/reviewer.md
+- 2026-10-02 11:55 | ingest | raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md | new: 2026-08-21-kickoff-notes-agentic-ai-pilot, nadia-frei, lukas-amrein; changed: agentic-ai-in-service, jonas-weber, priya-raman, marco-steiner, alpmind, bergland-logistik-ag, _index
+- 2026-10-02 12:05 | review | Reviewer round 1: 3 high, 5 low; fixed the 3 high (pilot start contradiction, 'resolve directly' contradiction, callouts on jonas-weber) | agentic-ai-in-service, 2026-08-21-kickoff-notes-agentic-ai-pilot, jonas-weber
+- 2026-10-02 12:10 | review | Reviewer round 2: 3 high fixes confirmed, 0 high/medium, 4 low left open; Approval: yes | agentic-ai-in-service, 2026-08-21-kickoff-notes-agentic-ai-pilot, jonas-weber

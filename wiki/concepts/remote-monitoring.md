@@ -1,0 +1,23 @@
+---
+title: Remote monitoring
+type: concept
+created: 2026-10-02
+updated: 2026-10-02
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md]
+tags: [service, software]
+---
+
+# Remote monitoring
+
+Monitoring of robots in the field from a distance via [[alpmind]], as part of the service [[alpcare]]. (Source: [[2026-03-12-executive-board-minutes]])
+
+## Facts
+
+- Reduces on-site visits by about 30% (reported by [[jonas-weber]], 12 March 2026). (Source: [[2026-03-12-executive-board-minutes]])
+
+> [!note] Uncertain
+> The minutes do not say how the 30% was measured or over which period.
+
+## Related
+
+- [[2026-03-12-executive-board-minutes]]

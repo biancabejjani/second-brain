@@ -19,3 +19,4 @@
 - 2026-10-02 12:35 | query | Did Alpstein promise Bergland Logistik AG a credit note? (answer only from the wiki) | bergland-logistik-ag, 2026-06-18-email-thread-bergland, 2026-07-30-q2-report-excerpt, agentic-ai-in-service
 - 2026-10-02 12:40 | other | Ingest request raw/alpstein/2026-09-02-shopping-list-team-event.md: not ingested – non-business content (CLAUDE.md section 3); asked owner for decision | –
 - 2026-10-02 12:50 | other | Added rule to CLAUDE.md section 6: figures that change over time are a time series, not a contradiction | CLAUDE.md
+- 2026-10-02 12:55 | query | How many employees does Alpstein Robotics have? (retest after time-series rule) | alpstein-robotics-ag, 2026-07-30-q2-report-excerpt

@@ -38,4 +38,4 @@
 _(none yet)_
 
 ## Lint reports
-_(none yet)_
+- [[2026-10-02]] – First lint: 3 contradictions, 3 outdated statements, 2 gaps, no orphans (updated 2026-10-02)

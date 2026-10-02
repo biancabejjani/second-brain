@@ -9,3 +9,4 @@
 - 2026-10-02 11:05 | other | Revised CLAUDE.md section 5: new version of Ingest and Lint workflows (Query unchanged) | CLAUDE.md
 - 2026-10-02 11:15 | ingest | raw/alpstein/2026-05-05-strategy-memo-service-first.md | new: 2026-05-05-strategy-memo-service-first, service-first-strategy, alpmind-platform, agentic-ai-in-service, rheintal-pharma-ag; changed: alpstein-robotics-ag, lea-brunner, jonas-weber, priya-raman, alpcare, alpmind, alpcare-plus, alppick-2-0-launch, remote-monitoring, _index
 - 2026-10-02 11:25 | ingest | raw/alpstein/2026-06-18-email-thread-bergland.md | new: 2026-06-18-email-thread-bergland, thomas-rueegg; changed: bergland-logistik-ag, jonas-weber, sandra-koller, marco-steiner, alpcare, alpcare-plus, alppick, alppick-2-0-launch, remote-monitoring, _index | contradictions flagged: AlpCare price, launch date, credit note
+- 2026-10-02 11:35 | lint | 11 findings (5 high, 2 medium, 4 low incl. no orphans) | _lint/2026-10-02

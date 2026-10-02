@@ -20,3 +20,4 @@
 - 2026-10-02 12:40 | other | Ingest request raw/alpstein/2026-09-02-shopping-list-team-event.md: not ingested – non-business content (CLAUDE.md section 3); asked owner for decision | –
 - 2026-10-02 12:50 | other | Added rule to CLAUDE.md section 6: figures that change over time are a time series, not a contradiction | CLAUDE.md
 - 2026-10-02 12:55 | query | How many employees does Alpstein Robotics have? (retest after time-series rule) | alpstein-robotics-ag, 2026-07-30-q2-report-excerpt
+- 2026-10-02 13:00 | other | Added three Task 7 rules to CLAUDE.md section 6 (no changes to CLAUDE.md/reviewer without request; off-purpose ingest only after yes; no personal data of private persons) | CLAUDE.md

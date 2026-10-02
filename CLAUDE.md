@@ -143,4 +143,5 @@ tags: [topic, topic]
 - Do not fetch external sources from the internet unless I explicitly tell you to.
 - If you are unsure: ask, do not guess.
 - If a task would change more than 10 pages: show the plan first, then wait for my yes.
+- Figures that change over time are a time series, not a contradiction: record every value with its date and source, and mark only the most recent one as current.
 - [Your rules from Task 7]

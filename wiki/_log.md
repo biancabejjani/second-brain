@@ -11,3 +11,4 @@
 - 2026-10-02 11:25 | ingest | raw/alpstein/2026-06-18-email-thread-bergland.md | new: 2026-06-18-email-thread-bergland, thomas-rueegg; changed: bergland-logistik-ag, jonas-weber, sandra-koller, marco-steiner, alpcare, alpcare-plus, alppick, alppick-2-0-launch, remote-monitoring, _index | contradictions flagged: AlpCare price, launch date, credit note
 - 2026-10-02 11:35 | lint | 11 findings (5 high, 2 medium, 4 low incl. no orphans) | _lint/2026-10-02
 - 2026-10-02 11:36 | other | Correction to previous log entry: lint severities are 4 high, 2 medium, 4 low, plus 1 info (no orphans) | _lint/2026-10-02
+- 2026-10-02 11:50 | other | Added ninth check to reviewer: every project page has a section 'Open points' | .claude/agents/reviewer.md

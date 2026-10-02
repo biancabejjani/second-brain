@@ -21,3 +21,4 @@
 - 2026-10-02 12:50 | other | Added rule to CLAUDE.md section 6: figures that change over time are a time series, not a contradiction | CLAUDE.md
 - 2026-10-02 12:55 | query | How many employees does Alpstein Robotics have? (retest after time-series rule) | alpstein-robotics-ag, 2026-07-30-q2-report-excerpt
 - 2026-10-02 13:00 | other | Added three Task 7 rules to CLAUDE.md section 6 (no changes to CLAUDE.md/reviewer without request; off-purpose ingest only after yes; no personal data of private persons) | CLAUDE.md
+- 2026-10-02 13:05 | other | Created .claude/settings.json from example (removed _note, added deny rule Bash(git push -f:*)) | .claude/settings.json

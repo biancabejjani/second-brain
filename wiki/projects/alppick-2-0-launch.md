@@ -3,13 +3,13 @@ title: AlpPick 2.0 launch
 type: project
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-06-18-email-thread-bergland.md]
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-06-18-email-thread-bergland.md, raw/alpstein/2026-07-30-q2-report-excerpt.md]
 tags: [project, product]
 ---
 
 # AlpPick 2.0 launch
 
-**Status:** Decided on 12 March 2026 – market launch in September 2026; on 16 June 2026 "Q4, not yet confirmed" (see contradiction). (Source: [[2026-03-12-executive-board-minutes]])
+**Status:** Decided on 12 March 2026 – market launch in September 2026; on 16 June 2026 "Q4, not yet confirmed" (see contradiction); on 30 July 2026: date to be set at the August meeting (Source: [[2026-07-30-q2-report-excerpt]]). (Source: [[2026-03-12-executive-board-minutes]])
 
 ## Description
 
@@ -50,6 +50,12 @@ New generation of [[alppick]]: payload 25 kg instead of 15 kg, navigation withou
 > [!warning] Contradiction – launch date
 > Decision of 12 March 2026: market launch in **September 2026** (Source: [[2026-03-12-executive-board-minutes]]) vs. Jonas Weber, 16 June 2026: "we currently assume **Q4**. This is not yet confirmed" (Source: [[2026-06-18-email-thread-bergland]]). Not resolved.
 
+## Update 30 July 2026
+
+- 41 pre-orders for AlpPick 2.0. (Source: [[2026-07-30-q2-report-excerpt]])
+- Launch date **to be set at the Executive Board meeting in August 2026**. (Source: [[2026-07-30-q2-report-excerpt]])
+- Risk: a postponement to Q4 would endanger the pre-orders; Bergland planned an expansion for September. (Source: [[2026-07-30-q2-report-excerpt]])
+
 ## Related
 
-- [[2026-03-12-executive-board-minutes]] · [[2026-05-05-strategy-memo-service-first]] · [[2026-06-18-email-thread-bergland]]
+- [[2026-03-12-executive-board-minutes]] · [[2026-05-05-strategy-memo-service-first]] · [[2026-06-18-email-thread-bergland]] · [[2026-07-30-q2-report-excerpt]]

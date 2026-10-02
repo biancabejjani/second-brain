@@ -3,7 +3,7 @@ title: Agentic AI in service
 type: project
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md]
+sources: [raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md, raw/alpstein/2026-07-30-q2-report-excerpt.md]
 tags: [project, ai, service]
 ---
 
@@ -60,6 +60,8 @@ An AI agent ("service triage agent") reads incoming service tickets from [[alpmi
 
 - Liability: if the agent makes a wrong commitment in service, Alpstein is liable – clear rules needed. (Source: [[2026-05-05-strategy-memo-service-first]])
 
+- Q2 report (30 July 2026): budget CHF 180,000 approved; kickoff in August; "the risk lies less in the technology than in the rules: What may the agent commit to toward customers?" (Source: [[2026-07-30-q2-report-excerpt]])
+
 ## Next steps
 
 - 5 Sep 2026: finalize rule set – [[jonas-weber]], [[nadia-frei]]
@@ -80,4 +82,4 @@ An AI agent ("service triage agent") reads incoming service tickets from [[alpmi
 
 ## Related
 
-- [[2026-05-05-strategy-memo-service-first]] · [[2026-08-21-kickoff-notes-agentic-ai-pilot]] · [[alpcare]] · [[bergland-logistik-ag]]
+- [[2026-05-05-strategy-memo-service-first]] · [[2026-08-21-kickoff-notes-agentic-ai-pilot]] · [[alpcare]] · [[bergland-logistik-ag]] · [[2026-07-30-q2-report-excerpt]]
